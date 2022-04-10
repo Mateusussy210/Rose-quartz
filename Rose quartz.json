@@ -6,9 +6,7 @@
         "updater": "https:\/\/raw.githubusercontent.com\/Mateusussy210\/Rose-quartz\/main\/Rose%20quartz.json"
     },
     "background": {},
-    "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/913179361623027722\/961039309845196891\/superstar_m54.otf"
-    },
+    "fonts": {},
     "simple_colors": {
         "background": -16573394,
         "background_secondary": -16443612,

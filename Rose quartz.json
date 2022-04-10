@@ -1,0 +1,48 @@
+{
+    "manifest": {
+        "name": "Rose quartz",
+        "version": "3.7",
+        "author": ";Mateussss#9170"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/913179361623027722\/961039309845196891\/superstar_m54.otf"
+    },
+    "simple_colors": {
+        "background": -16573394,
+        "background_secondary": -16443612,
+        "mention_highlight": 1723215973,
+        "active_channel": 2125869157,
+        "input_background": -14277830,
+        "accent": -5881757,
+        "blocked_bg": -15268325
+    },
+    "colors": {
+        "brand_new_560": -15523025,
+        "link": -11039308,
+        "primary_600": -15786197,
+        "primary_660": -14738631,
+        "primary_700": -14738130,
+        "transparent": -16311510,
+        "uikit_btn_bg_color_selector_red": -5436597,
+        "primary_dark_360": -9540986,
+        "abc_btn_colored_borderless_text_material": -2353307,
+        "black_alpha_10": -10468771,
+        "primary_dark_300": -4363641
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -13536113,
+        "drawable_button_red": -1682039,
+        "drawable_voice_indicator_speaking": -16738424,
+        "drawable_bg_settings_item": -1682039,
+        "ic_content_copy_white_a60_24dp": -1682039,
+        "ic_channel_pinned_message": -1682039,
+        "ic_sidebar_pins_off_dark_24dp": -1682039,
+        "ic_sidebar_pins_on_dark_24dp": -1682039,
+        "ic_sidebar_search_24dp": -1682039,
+        "ic_sidebar_notifications_off_dark_24dp": -1682039,
+        "ic_sidebar_notifications_on_dark_24dp": -1682039,
+        "ic_mark_unread_24dp": -1682039
+    },
+    "raws": {}
+}

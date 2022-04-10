@@ -2,7 +2,8 @@
     "manifest": {
         "name": "Rose quartz",
         "version": "3.7",
-        "author": ";Mateussss#9170"
+        "author": ";Mateussss#9170",
+        "updater": "https:\/\/raw.githubusercontent.com\/Mateusussy210\/Rose-quartz\/main\/Rose%20quartz.json"
     },
     "background": {},
     "fonts": {
